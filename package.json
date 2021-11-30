@@ -40,6 +40,7 @@
     "webpack-dev-server": "^4.3.1"
   },
   "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.16.0",
     "@babel/polyfill": "^7.12.1",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
